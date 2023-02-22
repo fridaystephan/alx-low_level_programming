@@ -1,4 +1,4 @@
-#include "printputchar.h"
+#include "main.h"
 /**
  * main - Entry point
  *
@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	char *sh = "printputchar";
+	char *sh = "Main";
 
 	while (*sh)
 	{
